@@ -36,7 +36,7 @@ All assets used in this game (artwork, sprites, effects) were provided by the co
 
 ## 🌐 Play Online
 
-✨ [Play Shadow Hound on GitHub Pages]((https://muiisie.github.io/IVWD216-Project1-ShadowHound/))  
+✨ [Play Shadow Hound on GitHub Pages](https://muiisie.github.io/IVWD216-Project1-ShadowHound/)
 
 ---
 
